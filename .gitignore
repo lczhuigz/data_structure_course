@@ -19,3 +19,5 @@ rules.ninja
 Debug/
 Release/
 x64/
+
+.vscode
