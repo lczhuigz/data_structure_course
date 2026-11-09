@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.12)
+
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_POLICY_DEFAULT_CMP0125 NEW)
+set(CMAKE_FILE_ENCODING UTF-8)
+
+project(lab04)
+
+ADD_EXECUTABLE(lab04 main.c)
