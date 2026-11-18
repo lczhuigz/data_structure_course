@@ -6,4 +6,4 @@ set(CMAKE_FILE_ENCODING UTF-8)
 
 project(lab04)
 
-ADD_EXECUTABLE(lab04 main.c)
+ADD_EXECUTABLE(lab04 src/main.c)

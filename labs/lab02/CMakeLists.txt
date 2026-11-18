@@ -4,4 +4,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 project(lab02)
 
-ADD_EXECUTABLE(lab02 main.cpp)
+ADD_EXECUTABLE(lab02 src/main.cpp)
